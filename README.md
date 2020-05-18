@@ -2,7 +2,4 @@ This is the note for the book: Introduction to Computation and Programming Using
 <br/>Link of the book in Amazon: https://www.amazon.com/Introduction-Computation-Programming-Using-Python/dp/0262529629/ref=sr_1_1?qid=1574507838&refinements=p_27%3AJohn+V.+Guttag&s=books&sr=1-1&text=John+V.+Guttag
 <br/>This is also the note for MITx-6.00.1x course.
 <br/>
-<br/>The link of the course in Edx: 
-<br/>(Be updated later because it will start AGAIN on Jan 23, 2020)
-<br/>
 <br/>The notes are being translated into Vietnamese.
